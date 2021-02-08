@@ -1,4 +1,4 @@
-# projeto-mqtt-mariana
+# PROJETO ARDUINO E MQTT
 ## MATERIAIS
 * 1 Arduino Uno
 * 1 Sensor Magnético (ENC28J60)
